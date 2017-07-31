@@ -24,3 +24,6 @@ Launch browser with http://localhost:4567/users/{id}
 
 # Advantage
 I wrote this in few minutes, no need of hibernate/spring configuration files, they are complex by nature.
+
+# Reference
+https://www.boxuk.com/insight/blog-posts/creating-rest-api-quickly-using-pure-java
